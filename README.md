@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Funsho-ops
 - 👀 I’m interested in JavaScript/HTML/CSS/Python
 - 🌱 I’m currently learning JavaScript/HTML/CSS/Python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @Funshoblac on Twitter, akinbile.funsho@aol.com
 
 <!---
