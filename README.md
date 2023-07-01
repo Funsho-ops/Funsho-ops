@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Funsho-ops
+<hi> 👋 Hi, I’m @Funsho-ops </h1>
 - 👀 I’m interested in JavaScript/HTML/CSS/Python
 - 🌱 I’m currently learning JavaScript/HTML/CSS/Python 
 - 💞️ I’m looking to collaborate on projects
